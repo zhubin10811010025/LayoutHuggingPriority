@@ -1,0 +1,3 @@
+target:'LayoutHuggingPriority' do
+pod 'Masonry'
+end
